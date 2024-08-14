@@ -12,3 +12,5 @@
 - Kubernetes
 - React
 - GCP
+
+https://slender789.github.io/slender789/
