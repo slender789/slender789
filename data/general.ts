@@ -2,6 +2,7 @@ export const generalData = {
   name: "Marco García",
   avatar: "https://github.com/slender789.png",
   jobTitle: "Software Developer",
+  website: "https://www.slender789.github.io/slender789/",
   about:
     `I am an experienced Software Engineer with extensive experience in the development of FrontEnd projects in React and Angular, 
     monolithic and microservices Backend, containers and their orchestration with Docker and Kubernetes, cloud 
