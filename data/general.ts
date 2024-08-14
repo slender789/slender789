@@ -1,30 +1,27 @@
 export const generalData = {
-  name: "John Doe",
-  avatar: "https://github.com/ibelick.png",
-  jobTitle: "Senior Front-End Developer",
-  website: "https://www.julienthibeaut.xyz",
+  name: "Marco García",
+  avatar: "https://github.com/slender789.png",
+  jobTitle: "Software Developer",
   about:
-    "Hey there! I'm John, a senior front-end developer with 10 years of experience in web development.",
+    `I am an experienced Software Engineer with extensive experience in the development of FrontEnd projects in React and Angular, 
+    monolithic and microservices Backend, containers and their orchestration with Docker and Kubernetes, cloud 
+    computing (more specifically with GCP) and CI/CD pipelines, Infrastructure as Code with Terraform and other technologies. I love working 
+    on challenging projects with innovative technologies, always aspiring to grow professionally and personally.`,
   contacts: [
     {
-      label: "Email",
-      value: "john.doe@gmail.com",
-      href: "mailto:john.doe@gmail.com",
-    },
-    {
-      label: "Twitter",
-      value: "ibelick",
-      href: "https://twitter.com/ibelick",
-    },
-    {
       label: "Github",
-      value: "ibelick",
-      href: "https://github.com/ibelick",
+      value: "slender789",
+      href: "https://github.com/slender789",
     },
     {
-      label: "Read.CV",
-      value: "ibelick",
-      href: "https://read.cv/ibelick",
+      label: "LinkedIn",
+      value: "Marco García",
+      href: "https://www.linkedin.com/in/esa%C3%BA-garc%C3%ADa-009083250/",
+    },
+    {
+      label: "Email",
+      value: "esau.garcia.007@gmail.com",
+      href: "mailto:esau.garcia.007@gmail.com",
     },
   ],
 };
